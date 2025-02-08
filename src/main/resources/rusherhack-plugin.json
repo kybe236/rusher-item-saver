@@ -1,0 +1,16 @@
+{
+  "Plugin-Class": "org.kybe.ItemSaver",
+  "Name": "${project.plugin_name}",
+  "Version": "${project.plugin_version}",
+  "Description": "Item Saver",
+  "Authors": [
+    "kybe236"
+  ],
+  "Minecraft-Versions": [
+    "${project.minecraft_version}",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4"
+  ]
+}
